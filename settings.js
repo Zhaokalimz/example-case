@@ -10,16 +10,16 @@ global.APIKeys = {
 	'https://api.zeeoneofc.my.id': 'Your Key',
 }
 
-global.namabot = "Bot Store"
-global.namaowner = "Zeeoneofc"
-global.packname = namabot
-global.author = namaowner
+global.namabot = "VILL么IN BOTZ"
+global.namaowner = "LUKHAZ VILL么IN"
+global.packname = VILL么IN BOTZ
+global.author = LUKHAZ VILL么IN
 global.myweb = "https://s.id/zeeoneofc"
-global.footer_text = "© " + namabot
-global.pp_bot = fs.readFileSync("./image/foto.jpg")
-global.qris = fs.readFileSync("./image/qris.jpg")
-global.owner = ['62887435047326']
-global.pairingNumber = "" //pairing number to install bot 
+global.footer_text = "© " + VILL么IN BOTZ
+global.pp_bot = fs.readFileSync("%40OrangeKun _ Twitter%2C Instagram%2C Facebook%2C TikTok _ Linktree.jpg")
+global.qris = fs.readFileSync("To Owner")
+global.owner = ['6283822459641']
+global.pairingNumber = "6283822459641" //pairing number to install bot 
 global.sessionName = 'session'
 global.background = "https://telegra.ph/file/40342e0085d521cb8b907.jpg" //maks size 50kb agar welcome nya gk lemot
 global.prefa = ['-_-']
@@ -52,14 +52,14 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 *HITUNG MUNDUR IDUL FITRI 🌜*
  ${mundur}
 
-╭✄┈┈┈⟬ *STATISTIC* ⟭
+╭✄┈┈┈⟬ *STATISTIC* 
 ┆❐ Upload : ${upload}
 ┆❐ Downloads : ${download}
 ┆❐ Total : ${totalGb} GB
 ┆❐ Used : ${usedGb} GB
 ┆❐ Free : ${freeGb} GB
 ╰──────────◇
-╭✄┈┈┈⟬ *INFO-BOT* ⟭
+╭✄┈┈┈⟬ *INFO-BOT* 
 ┆❐ Creator : ${ownerName}
 ┆❐ Bot Name : ${botName}
 ┆❐ Time : ${jam}
@@ -67,7 +67,7 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ Runtime : ${runtime}
 ╰──────────◇
 
-╭✄┈┈┈⟬ *ANIME* ⟭
+╭✄┈┈┈⟬ *ANIME* 
 ┆❐ ${prefix}akame
 ┆❐ ${prefix}anna
 ┆❐ ${prefix}asuna-yuki
@@ -114,7 +114,7 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ ${prefix}loli
 ╰──────────◇
 
-╭✄┈┈┈⟬ *ASUPAN* ⟭
+╭✄┈┈┈⟬ *ASUPAN* 
 ┆❐ ${prefix}chika
 ┆❐ ${prefix}rikagusriani
 ┆❐ ${prefix}bocil
@@ -138,7 +138,7 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ ${prefix}mangayutri
 ╰──────────◇
 
-╭✄┈┈┈⟬ *CECAN* ⟭
+╭✄┈┈┈⟬ *CECAN* 
 ┆❐ ${prefix}china
 ┆❐ ${prefix}indonesia
 ┆❐ ${prefix}malaysia
@@ -152,7 +152,7 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ ${prefix}rose
 ╰──────────◇
 
-╭✄┈┈┈⟬ *COGAN* ⟭
+╭✄┈┈┈⟬ *COGAN* 
 ┆❐ ${prefix}wuyifan
 ┆❐ ${prefix}suga
 ┆❐ ${prefix}parkchanyeol
@@ -173,7 +173,7 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ ${prefix}baekhyung
 ╰──────────◇
 
-╭✄┈┈┈⟬ *DOWNLOADER* ⟭
+╭✄┈┈┈⟬ *DOWNLOADER* 
 ┆❐ ${prefix}ytmp4
 ┆❐ ${prefix}ytmp3
 ┆❐ ${prefix}play
@@ -189,7 +189,7 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ ${prefix}tiktokvn
 ╰──────────◇
 
-╭✄┈┈┈⟬ *SEMOJI* ⟭
+╭✄┈┈┈⟬ *SEMOJI* 
 ┆❐ ${prefix}apple
 ┆❐ ${prefix}aubykddi
 ┆❐ ${prefix}docomo
@@ -209,7 +209,7 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ ${prefix}google
 ╰──────────◇
 
-╭✄┈┈┈⟬ *EPHOTO 360* ⟭
+╭✄┈┈┈⟬ *EPHOTO 360* 
 ┆❐ ${prefix}1917text
 ┆❐ ${prefix}angelwing
 ┆❐ ${prefix}announofwin
@@ -296,7 +296,7 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ ${prefix}juventusshirt
 ╰──────────◇
 
-╭✄┈┈┈⟬ *LOGO MAKER* ⟭
+╭✄┈┈┈⟬ *LOGO MAKER* 
 ┆❐ ${prefix}anonymous2
 ┆❐ ${prefix}astronotspace
 ┆❐ ${prefix}avatar3q360
@@ -364,7 +364,7 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ ${prefix}wallpaperml 
 ╰──────────◇
 
-╭✄┈┈┈⟬ *GAMES* ⟭
+╭✄┈┈┈⟬ *GAMES* 
 ┆❐ ${prefix}tebakgambar
 ┆❐ ${prefix}tebakkata
 ┆❐ ${prefix}tebakbendera
@@ -380,7 +380,7 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ ${prefix}caklontong
 ╰──────────◇
 
-╭✄┈┈┈⟬ *IMAGE EFFECT* ⟭
+╭✄┈┈┈⟬ *IMAGE EFFECT* 
 ┆❐ ${prefix}triggered
 ┆❐ ${prefix}brazzers
 ┆❐ ${prefix}burn
@@ -418,7 +418,7 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ ${prefix}circle
 ╰──────────◇
 
-╭✄┈┈┈⟬ *ISLAMIC* ⟭
+╭✄┈┈┈⟬ *ISLAMIC* 
 ┆❐ ${prefix}asmaulhusna
 ┆❐ ${prefix}kisahnabi
 ┆❐ ${prefix}jadwalshalat
@@ -430,7 +430,7 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ ${prefix}alquranaudio
 ╰──────────◇
 
-╭✄┈┈┈⟬ *NSFW & SFW* ⟭
+╭✄┈┈┈⟬ *NSFW & SFW* 
 ┆❐ ${prefix}baka
 ┆❐ ${prefix}smug
 ┆❐ ${prefix}neko-sfw
@@ -502,7 +502,7 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ ${prefix}tickle
 ╰──────────◇
 
-╭✄┈┈┈⟬ *PHOTOOXY* ⟭
+╭✄┈┈┈⟬ *PHOTOOXY* 
 ┆❐ ${prefix}typography-flower
 ┆❐ ${prefix}under-flower
 ┆❐ ${prefix}bevel-text
@@ -552,7 +552,7 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ ${prefix}text-8bit
 ╰──────────◇
 
-╭✄┈┈┈⟬ *RANDOM STICKER* ⟭
+╭✄┈┈┈⟬ *RANDOM STICKER* 
 ┆❐ ${prefix}patrick
 ┆❐ ${prefix}popoci
 ┆❐ ${prefix}sponsbob
@@ -576,7 +576,7 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ ${prefix}tyni
 ╰──────────◇
 
-╭✄┈┈┈⟬ *CANVAS* ⟭
+╭✄┈┈┈⟬ *CANVAS* 
 ┆❐ ${prefix}ttp
 ┆❐ ${prefix}attp
 ┆❐ ${prefix}foliokiri
@@ -585,7 +585,7 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ ${prefix}nuliskiri
 ╰──────────◇
 
-╭✄┈┈┈⟬ *TEXT PRO* ⟭
+╭✄┈┈┈⟬ *TEXT PRO* 
 ┆❐ ${prefix}3dbox
 ┆❐ ${prefix}3dchrome
 ┆❐ ${prefix}3dglue
@@ -764,7 +764,7 @@ menu(pushname, salam, mundur, upload, download, totalGb, usedGb, freeGb, ownerNa
 ┆❐ ${prefix}bagel
 ╰──────────◇
 
-╭✄┈┈┈⟬ *GROUP* ⟭
+╭✄┈┈┈⟬ *GROUP* 
 ┆❐ ${prefix}setwelcome
 ┆❐ ${prefix}changewelcome
 ┆❐ ${prefix}delsetwelcome
